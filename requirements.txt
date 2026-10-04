@@ -1,0 +1,5 @@
+PyQt6>=6.6.0
+PyQt6-WebEngine>=6.6.0
+SpeechRecognition>=3.10.0
+pyinstaller>=6.0.0
+# Note: PyAudio is optional, needed only if using live microphone voice search
